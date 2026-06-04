@@ -1,2 +1,2 @@
 # sign-up-form
-A sign up form for an imaginary service.
+A sign up form for an imaginary online service.
