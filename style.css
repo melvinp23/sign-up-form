@@ -124,14 +124,14 @@ input {
 	box-shadow: 1px 3px 4px black;
 }
 
+input:user-invalid {
+	border: 2px solid red;
+}
+
 input:focus {
 	background-color: #fafafa;
 	outline: none;
 	border: 2px solid blue;
-}
-
-.password-container:user-invalid {
-	border: 2px solid red;
 }
 
 button {
